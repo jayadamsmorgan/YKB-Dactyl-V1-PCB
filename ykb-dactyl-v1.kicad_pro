@@ -617,6 +617,18 @@
     [
       "3a08b8c2-5472-461f-8ded-0be9796eaa52",
       "Power"
+    ],
+    [
+      "8fdf36b3-219d-4291-9ca3-c54f1688288f",
+      "MCU"
+    ],
+    [
+      "94e07060-4601-46ca-8119-b6e1ec6a0eba",
+      "MUXes"
+    ],
+    [
+      "9113b96c-b35b-4b61-a939-f36a75624981",
+      "Connectors"
     ]
   ],
   "text_variables": {}

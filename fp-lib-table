@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/footprints")(options "")(descr ""))
   (lib (name "holyiot-21069")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/footprints/holyiot-21069.pretty")(options "")(descr ""))
+  (lib (name "MC-121-L124")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/footprints/MC-121-L124.pretty")(options "")(descr ""))
 )
