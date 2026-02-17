@@ -6,6 +6,7 @@
   (lib (name "holyiot-21069")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/holyiot-21069.kicad_sym")(options "")(descr ""))
   (lib (name "MC-121-L124")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/MC-121-L124.kicad_sym")(options "")(descr ""))
   (lib (name "SK6812MINI-E")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/SK6812MINI-E.kicad_sym")(options "")(descr ""))
+  (lib (name "SKRTLAE010")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/SKRTLAE010.kicad_sym")(options "")(descr ""))
   (lib (name "TPS62840DLCR")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/TPS62840DLCR.kicad_sym")(options "")(descr ""))
   (lib (name "TPS631000DRLR")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/TPS631000DRLR.kicad_sym")(options "")(descr ""))
   (lib (name "TXU0101DCKR")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/TXU0101DCKR.kicad_sym")(options "")(descr ""))

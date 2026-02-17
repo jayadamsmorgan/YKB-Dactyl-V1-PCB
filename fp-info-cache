@@ -1,4 +1,4 @@
-27261186768455733
+27262958123036438
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107932,6 +107932,13 @@ SK6812MINI-E_RVRSMOUNT
 0
 4
 4
+footprints
+SKRTLAE010
+SKRTLAE010
+Switch
+0
+5
+5
 footprints
 SON40P150X150X50-9N
 
