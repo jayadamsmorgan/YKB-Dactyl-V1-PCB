@@ -105,7 +105,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "9113b96c-b35b-4b61-a939-f36a75624981")
-		(property "Sheetname" "Connectors"
+		(property "Sheetname" "USB"
 			(at 38.1 52.6284 0)
 			(effects
 				(font
@@ -114,7 +114,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "connectors.kicad_sch"
+		(property "Sheetfile" "usb.kicad_sch"
 			(at 38.1 111.0746 0)
 			(effects
 				(font
