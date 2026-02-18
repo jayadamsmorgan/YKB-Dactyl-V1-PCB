@@ -13129,7 +13129,7 @@
 			)
 			(fill no)
 			(layer "Edge.Cuts")
-			(uuid "f03b9897-2de3-4172-b38a-bac11497eb93")
+			(uuid "780a0bd2-a540-4dcc-b7bc-56aa2d9857b7")
 		)
 		(fp_circle
 			(center -2.89 -6)
@@ -13140,7 +13140,7 @@
 			)
 			(fill no)
 			(layer "Edge.Cuts")
-			(uuid "d79626e5-93f5-48e2-98a5-1b7916a18f25")
+			(uuid "ce85edbe-9cf0-4722-9efb-93609f93cd49")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 180)
@@ -13286,7 +13286,7 @@
 			(uuid "c95d9d63-bb55-46fb-8c46-0d803d1b47b6")
 		)
 		(pad "SHIELD" thru_hole oval
-			(at -4.32 -1.82 270)
+			(at -4.32 -2.38 270)
 			(size 1.8 1)
 			(drill oval 1.4 0.6)
 			(layers "*.Cu" "*.Mask")
@@ -13308,7 +13308,7 @@
 			(uuid "c95d9d63-bb55-46fb-8c46-0d803d1b47b6")
 		)
 		(pad "SHIELD" thru_hole oval
-			(at 4.32 -1.82 270)
+			(at 4.32 -2.38 270)
 			(size 1.8 1)
 			(drill oval 1.4 0.6)
 			(layers "*.Cu" "*.Mask")
