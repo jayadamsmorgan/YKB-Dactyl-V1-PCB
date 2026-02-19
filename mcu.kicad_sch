@@ -2728,6 +2728,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "We have got 2 identical status LEDs on the board, this is for the symmetry purposes, only one of them is actually present depending on whether it is right or left variant."
+		(exclude_from_sim no)
+		(at 165.1 16.51 0)
+		(size 40.64 11.43)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "37c1a811-f0aa-4e28-9178-8bc77108c9d2")
+	)
 	(text_box "When BQ25185 has 0 on VIN, is it ok to just have 3.3 pullup on BAT_STAT_1 and BAT_STAT_2?"
 		(exclude_from_sim no)
 		(at 217.17 19.05 0)
@@ -3297,6 +3317,16 @@
 			(type default)
 		)
 		(uuid "859a1697-d9ee-4e2c-a69f-438de6ec8de1")
+	)
+	(wire
+		(pts
+			(xy 33.02 53.34) (xy 41.91 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b49e9ba-92c4-414b-9666-ee1afe8e5de1")
 	)
 	(wire
 		(pts
@@ -4177,6 +4207,16 @@
 			(justify left bottom)
 		)
 		(uuid "d17c65db-11bf-42ce-a3ab-1556306b3a1e")
+	)
+	(label "SW_P"
+		(at 33.02 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d77b7662-3e12-4eb9-be64-d7088d03c330")
 	)
 	(label "BAT_STAT_2"
 		(at 242.57 68.58 0)
