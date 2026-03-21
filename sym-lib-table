@@ -1,5 +1,6 @@
 (sym_lib_table
   (version 7)
+  (lib (name "2026-03-20_21-20-11")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/2026-03-20_21-20-11.kicad_sym")(options "")(descr ""))
   (lib (name "BQ25185DLHR")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/BQ25185DLHR.kicad_sym")(options "")(descr ""))
   (lib (name "Conn_ARM_SWD_TagConnect_TC2030-NL")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/Conn_ARM_SWD_TagConnect_TC2030-NL.kicad_sym")(options "")(descr ""))
   (lib (name "DG9408EDN-T1-GE4")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/DG9408EDN-T1-GE4.kicad_sym")(options "")(descr ""))
@@ -8,6 +9,7 @@
   (lib (name "RB751S40_115")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/RB751S40_115.kicad_sym")(options "")(descr ""))
   (lib (name "SK6812MINI-E")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/SK6812MINI-E.kicad_sym")(options "")(descr ""))
   (lib (name "SKRTLAE010")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/SKRTLAE010.kicad_sym")(options "")(descr ""))
+  (lib (name "TMAG5253BA1IQDMRR")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/TMAG5253BA1IQDMRR.kicad_sym")(options "")(descr ""))
   (lib (name "TPS62840DLCR")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/TPS62840DLCR.kicad_sym")(options "")(descr ""))
   (lib (name "TPS631000DRLR")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/TPS631000DRLR.kicad_sym")(options "")(descr ""))
   (lib (name "TXU0101DCKR")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/TXU0101DCKR.kicad_sym")(options "")(descr ""))
