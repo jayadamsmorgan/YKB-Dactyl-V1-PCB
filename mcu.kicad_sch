@@ -2867,10 +2867,6 @@
 		(uuid "7e06b6d0-f7d4-4ac4-9603-a4c6f148dffd")
 	)
 	(no_connect
-		(at 102.87 57.15)
-		(uuid "81211371-3ab0-44b2-9f02-bdd679c5854c")
-	)
-	(no_connect
 		(at 102.87 59.69)
 		(uuid "8605e532-8258-42fe-ae3d-86f5dee5dc96")
 	)
@@ -2955,6 +2951,16 @@
 			(type default)
 		)
 		(uuid "1335967c-0c9c-4840-8ff8-8992f86c4cf6")
+	)
+	(wire
+		(pts
+			(xy 100.33 57.15) (xy 102.87 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15b3ca14-f6e2-425d-b849-cf39d51f80a2")
 	)
 	(wire
 		(pts
@@ -4089,6 +4095,28 @@
 		(uuid "014337f8-bfd3-43bd-8558-7617f8a14fc6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 93.7767 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CHARGER_EN"
+		(shape input)
+		(at 100.33 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "10748734-d1b5-469c-bf54-3c7fd18fd925")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.2496 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5262,9 +5290,9 @@
 		(at 185.42 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "12926ca9-127a-45e3-9ebd-2d53c73208c5")
 		(property "Reference" "D2"
 			(at 181.61 53.34 0)
