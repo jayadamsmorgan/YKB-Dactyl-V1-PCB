@@ -334,7 +334,7 @@
 		(path "/8fdf36b3-219d-4291-9ca3-c54f1688288f/12926ca9-127a-45e3-9ebd-2d53c73208c5")
 		(sheetname "/MCU/")
 		(sheetfile "mcu.kicad_sch")
-		(attr smd exclude_from_bom dnp)
+		(attr smd)
 		(fp_line
 			(start 2.46 -0.86)
 			(end 2.46 0.86)
@@ -6877,7 +6877,7 @@
 		(path "/3a08b8c2-5472-461f-8ded-0be9796eaa52/6b70217b-31ba-449e-ad82-ab048677813a")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(attr through_hole exclude_from_bom dnp)
+		(attr through_hole)
 		(fp_line
 			(start -1.6 -2.599999)
 			(end -1.6 -2.599999)
@@ -9173,7 +9173,7 @@
 		(path "/3a08b8c2-5472-461f-8ded-0be9796eaa52/6a5f7dc7-e08c-49d8-98d8-058572962d07")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -1.0033 -0.9271)
 			(end -1.0033 0.9271)
@@ -9917,7 +9917,7 @@
 		(path "/8fdf36b3-219d-4291-9ca3-c54f1688288f/6bf9329f-7eb7-46c6-9d71-60cd7326e6ef")
 		(sheetname "/MCU/")
 		(sheetfile "mcu.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 6.75 9)
 			(end 6.75 9.5)
@@ -11572,7 +11572,7 @@
 		(path "/3a08b8c2-5472-461f-8ded-0be9796eaa52/1cf214f2-03a0-4c62-9e76-612233c102ee")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom dnp)
 		(fp_line
 			(start 0.974999 1.7)
 			(end -1.025001 1.7)
@@ -14755,7 +14755,7 @@
 		(path "/8fdf36b3-219d-4291-9ca3-c54f1688288f/f2b03d46-f3dc-4c28-9150-464f6cc0f32c")
 		(sheetname "/MCU/")
 		(sheetfile "mcu.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start 2.46 -0.860001)
 			(end 2.46 0.86)
@@ -19435,7 +19435,7 @@
 		(path "/8fdf36b3-219d-4291-9ca3-c54f1688288f/cb8024d1-a424-4524-8bdf-dc6b9d26a7d2")
 		(sheetname "/MCU/")
 		(sheetfile "mcu.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.33 1.27)
 			(end -1.33 11.49)
@@ -19758,7 +19758,7 @@
 		(path "/8fdf36b3-219d-4291-9ca3-c54f1688288f/a09988b6-a167-4121-acb8-45db5704e8bc")
 		(sheetname "/MCU/")
 		(sheetfile "mcu.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start 1.33 -1.33)
 			(end 1.33 0)
