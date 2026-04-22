@@ -5,6 +5,7 @@
   (lib (name "Conn_ARM_SWD_TagConnect_TC2030-NL")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/Conn_ARM_SWD_TagConnect_TC2030-NL.kicad_sym")(options "")(descr ""))
   (lib (name "DG9408EDN-T1-GE4")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/DG9408EDN-T1-GE4.kicad_sym")(options "")(descr ""))
   (lib (name "holyiot-21069")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/holyiot-21069.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX17048")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/MAX17048.kicad_sym")(options "")(descr ""))
   (lib (name "MC-121-L124")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/MC-121-L124.kicad_sym")(options "")(descr ""))
   (lib (name "RB751S40_115")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/RB751S40_115.kicad_sym")(options "")(descr ""))
   (lib (name "SK6812MINI-E")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/SK6812MINI-E.kicad_sym")(options "")(descr ""))

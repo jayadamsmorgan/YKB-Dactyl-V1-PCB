@@ -2,6 +2,7 @@
 /ykb-dactyl-v1-backups
 
 # Temporary files
+/.history
 *.lck
 *.000
 *.bak
