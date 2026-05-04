@@ -1685,7 +1685,7 @@
 			(uuid "ac354f05-8dce-4bab-a164-0d15067283d3")
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819/9113b96c-b35b-4b61-a939-f36a75624981"
 					(reference "#PWR083")
 					(unit 1)
@@ -1763,7 +1763,7 @@
 			(uuid "530c2dd3-096d-4b83-8147-95486ce63ca0")
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819/9113b96c-b35b-4b61-a939-f36a75624981"
 					(reference "#PWR084")
 					(unit 1)
@@ -1842,7 +1842,7 @@
 			(uuid "e5fde5aa-b4c6-4d11-973a-3d25683fa34d")
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819/9113b96c-b35b-4b61-a939-f36a75624981"
 					(reference "R102")
 					(unit 1)
@@ -1957,7 +1957,7 @@
 			(uuid "2318a87c-35b6-465f-9826-8b3de0478925")
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819/9113b96c-b35b-4b61-a939-f36a75624981"
 					(reference "J8")
 					(unit 1)
@@ -2037,7 +2037,7 @@
 			(uuid "537228c0-268e-4c09-bfaa-3f6010b8a8ea")
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819/9113b96c-b35b-4b61-a939-f36a75624981"
 					(reference "R101")
 					(unit 1)
@@ -2115,7 +2115,7 @@
 			(uuid "738b484a-4d6b-4626-a1c2-b09f7d50fa98")
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819/9113b96c-b35b-4b61-a939-f36a75624981"
 					(reference "#PWR080")
 					(unit 1)
@@ -2194,7 +2194,7 @@
 			(uuid "e57235c9-3b8e-47f6-9b71-f2512de5834f")
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819/9113b96c-b35b-4b61-a939-f36a75624981"
 					(reference "#PWR081")
 					(unit 1)
@@ -2272,7 +2272,7 @@
 			(uuid "5dbb73a7-6f44-4704-9ce2-586d9ff89df8")
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819/9113b96c-b35b-4b61-a939-f36a75624981"
 					(reference "#PWR082")
 					(unit 1)
@@ -2350,7 +2350,7 @@
 			(uuid "350042e6-7606-4a46-b8ae-5d0851784199")
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819/9113b96c-b35b-4b61-a939-f36a75624981"
 					(reference "#PWR079")
 					(unit 1)
@@ -2447,7 +2447,7 @@
 			(uuid "6f5a03ce-aa57-4663-91dd-81597c9d73cc")
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819/9113b96c-b35b-4b61-a939-f36a75624981"
 					(reference "U6")
 					(unit 1)

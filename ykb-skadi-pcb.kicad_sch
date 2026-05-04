@@ -44,7 +44,7 @@
 			)
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819"
 					(page "2")
 				)
@@ -90,7 +90,7 @@
 			)
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819"
 					(page "3")
 				)
@@ -136,7 +136,7 @@
 			)
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819"
 					(page "5")
 				)
@@ -182,7 +182,7 @@
 			)
 		)
 		(instances
-			(project "ykb-dactyl-v1"
+			(project "ykb-skadi-pcb"
 				(path "/e14fa40b-de41-4d68-adfe-82a50bad5819"
 					(page "4")
 				)

@@ -473,7 +473,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ykb-dactyl-v1.kicad_pro",
+    "filename": "ykb-skadi-pcb.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -640,8 +640,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "ykb-dactyl-v1.kicad_sch",
-        "name": "ykb-dactyl-v1",
+        "filename": "ykb-skadi-pcb.kicad_sch",
+        "name": "ykb-skadi-pcb",
         "uuid": "e14fa40b-de41-4d68-adfe-82a50bad5819"
       }
     ],

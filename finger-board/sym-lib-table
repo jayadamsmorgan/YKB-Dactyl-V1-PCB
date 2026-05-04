@@ -1,5 +1,5 @@
 (sym_lib_table
-  (version 7)
-  (lib (name "SK6812MINI-E")(type "KiCad")(uri "${KIPRJMOD}/../kicad_lib/symbols/SK6812MINI-E.kicad_sym")(options "")(descr ""))
-  (lib (name "TMAG5253BA1IQDMRR")(type "KiCad")(uri "${KIPRJMOD}/../kicad_lib/symbols/TMAG5253BA1IQDMRR.kicad_sym")(options "")(descr ""))
+	(version 7)
+	(lib (name "SK6812MINI-E") (type "KiCad") (uri "${KIPRJMOD}/../kicad_lib/symbols/SK6812MINI-E.kicad_sym") (options "") (descr ""))
+	(lib (name "TMAG5253BA1IQDMRR") (type "KiCad") (uri "${KIPRJMOD}/../kicad_lib/symbols/TMAG5253BA1IQDMRR.kicad_sym") (options "") (descr ""))
 )
